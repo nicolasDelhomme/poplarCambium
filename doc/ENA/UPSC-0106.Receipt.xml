@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2017-06-28T09:07:36.061+01:00" submissionFile="UPSC-0106.Submission.xml" success="true">
+     <EXPERIMENT accession="ERX2078736" alias="UPSC-0106-E0001" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2078737" alias="UPSC-0106-E0002" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2078738" alias="UPSC-0106-E0003" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2078739" alias="UPSC-0106-E0004" status="PRIVATE"/>
+     <EXPERIMENT accession="ERX2078740" alias="UPSC-0106-E0005" status="PRIVATE"/>
+     <RUN accession="ERR2019486" alias="UPSC-0106-R0001" status="PRIVATE"/>
+     <RUN accession="ERR2019487" alias="UPSC-0106-R0002" status="PRIVATE"/>
+     <RUN accession="ERR2019488" alias="UPSC-0106-R0003" status="PRIVATE"/>
+     <RUN accession="ERR2019489" alias="UPSC-0106-R0004" status="PRIVATE"/>
+     <RUN accession="ERR2019490" alias="UPSC-0106-R0005" status="PRIVATE"/>
+     <RUN accession="ERR2019491" alias="UPSC-0106-R0006" status="PRIVATE"/>
+     <RUN accession="ERR2019492" alias="UPSC-0106-R0007" status="PRIVATE"/>
+     <RUN accession="ERR2019493" alias="UPSC-0106-R0008" status="PRIVATE"/>
+     <SAMPLE accession="ERS1802319" alias="UPSC-0106-S0001" status="PRIVATE" holdUntilDate="2019-06-26+01:00">
+          <EXT_ID accession="SAMEA104143301" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1802320" alias="UPSC-0106-S0002" status="PRIVATE" holdUntilDate="2019-06-26+01:00">
+          <EXT_ID accession="SAMEA104143302" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1802321" alias="UPSC-0106-S0003" status="PRIVATE" holdUntilDate="2019-06-26+01:00">
+          <EXT_ID accession="SAMEA104143303" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1802322" alias="UPSC-0106-S0004" status="PRIVATE" holdUntilDate="2019-06-26+01:00">
+          <EXT_ID accession="SAMEA104143304" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS1802323" alias="UPSC-0106-S0005" status="PRIVATE" holdUntilDate="2019-06-26+01:00">
+          <EXT_ID accession="SAMEA104143305" type="biosample"/>
+     </SAMPLE>
+     <STUDY accession="ERP023821" alias="UPSC-0106" status="PRIVATE" holdUntilDate="2019-06-26+01:00">
+          <EXT_ID accession="PRJEB21557" type="Project"/>
+     </STUDY>
+     <SUBMISSION accession="ERA965926" alias="UPSC-0106"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to private status (HOLD).</INFO>
+          <INFO>Submission has been committed.</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>HOLD</ACTIONS>
+</RECEIPT>

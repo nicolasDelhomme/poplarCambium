@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0105-S0001" center_name="UPSC">
+  <TITLE>OP42-1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>56424</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus maximowiczii x Populus trichocarpa</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus maximowiczii x Populus trichocarpa</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>RNA from vascular cambium tissues of Populus maximowiczii x Populus trichocarpa hybrid (OP42) at 0 hours after stem cutting</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0105-S0002" center_name="UPSC">
+  <TITLE>OP42-2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>56424</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus maximowiczii x Populus trichocarpa</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus maximowiczii x Populus trichocarpa</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>RNA from vascular cambium tissues of Populus maximowiczii x Populus trichocarpa hybrid (OP42) at 0 hours after stem cutting</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0105-S0003" center_name="UPSC">
+  <TITLE>OP42-3</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>56424</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus maximowiczii x Populus trichocarpa</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus maximowiczii x Populus trichocarpa</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>RNA from vascular cambium tissues of Populus maximowiczii x Populus trichocarpa hybrid (OP42) at 0 hours after stem cutting</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0105-S0004" center_name="UPSC">
+  <TITLE>OP42-4</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>56424</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus maximowiczii x Populus trichocarpa</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus maximowiczii x Populus trichocarpa</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>RNA from vascular cambium tissues of Populus maximowiczii x Populus trichocarpa hybrid (OP42) at 24 hours after stem cutting</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0105-S0005" center_name="UPSC">
+  <TITLE>OP42-5</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>56424</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus maximowiczii x Populus trichocarpa</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus maximowiczii x Populus trichocarpa</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>RNA from vascular cambium tissues of Populus maximowiczii x Populus trichocarpa hybrid (OP42) at 24 hours after stem cutting</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0105-S0006" center_name="UPSC">
+  <TITLE>OP42-6</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>56424</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus maximowiczii x Populus trichocarpa</SCIENTIFIC_NAME>
+   <COMMON_NAME>Populus maximowiczii x Populus trichocarpa</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>RNA from vascular cambium tissues of Populus maximowiczii x Populus trichocarpa hybrid (OP42) at 24 hours after stem cutting</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>

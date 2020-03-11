@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2019-06-13T14:06:57.071+01:00" submissionFile="UPSC-0107-embargo-update.Submission.xml" success="true">
+     <MESSAGES>
+          <INFO>Submission has been committed.</INFO>
+     </MESSAGES>
+     <ACTIONS>HOLD</ACTIONS>
+</RECEIPT>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RUN_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.run.xsd">
+ <RUN alias="UPSC-0105-R0001" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-11-25T00:00:00">
+  <EXPERIMENT_REF refname="UPSC-0105-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0105/FCC4LJ7ACXX-TRDPOPuljTAIRAAPEI-209_L2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="787b511036e7eea93965cbe05a2068b3"/>
+    <FILE filename="UPSC-0105/FCC4LJ7ACXX-TRDPOPuljTAIRAAPEI-209_L2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="8c053339eb38dd321185049c4acdbf48"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0105-R0002" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-11-25T00:00:00">
+  <EXPERIMENT_REF refname="UPSC-0105-E0001"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0105/OP1_FCC4CL0ACXX_L2_TRDPOPuljTAIRAAPEI-209_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="98f9bc4181291bb260dc1d0f6584779b"/>
+    <FILE filename="UPSC-0105/OP1_FCC4CL0ACXX_L2_TRDPOPuljTAIRAAPEI-209_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="a7ad18e684150661a8fac4956d03e603"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0105-R0003" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-11-25T00:00:00">
+  <EXPERIMENT_REF refname="UPSC-0105-E0002"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0105/FCC4AHUACXX-TRDPOPwhfTASRAAPEI-220_L1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="f940ad55f7979ad17db8927c02e6cf63"/>
+    <FILE filename="UPSC-0105/FCC4AHUACXX-TRDPOPwhfTASRAAPEI-220_L1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b146e075442249766b623b40781ef58a"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0105-R0004" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-11-25T00:00:00">
+  <EXPERIMENT_REF refname="UPSC-0105-E0003"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0105/FCC4LJ7ACXX-TRDPOPuljTAJRAAPEI-210_L2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="4d815dfd41b0e386a19c7b9efab6d67a"/>
+    <FILE filename="UPSC-0105/FCC4LJ7ACXX-TRDPOPuljTAJRAAPEI-210_L2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="701f1761ee4db3fbc0ce96d1fd27352c"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0105-R0005" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-11-25T00:00:00">
+  <EXPERIMENT_REF refname="UPSC-0105-E0004"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0105/FCC4LJ7ACXX-TRDPOPuljTAKRAAPEI-211_L2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="cd0480230c483f58ca8a028df2abfa07"/>
+    <FILE filename="UPSC-0105/FCC4LJ7ACXX-TRDPOPuljTAKRAAPEI-211_L2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="c8d825a7529663e8ef6f8d5db2c444f4"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0105-R0006" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-11-25T00:00:00">
+  <EXPERIMENT_REF refname="UPSC-0105-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0105/FCC4LJ7ACXX-TRDPOPuljTALRAAPEI-212_L2_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="30f9ca59ceb2414ea2d0c81911513cd4"/>
+    <FILE filename="UPSC-0105/FCC4LJ7ACXX-TRDPOPuljTALRAAPEI-212_L2_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="18601a2b56ee9269bcf9ecb937b2be85"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0105-R0007" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-11-25T00:00:00">
+  <EXPERIMENT_REF refname="UPSC-0105-E0005"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0105/OP5_FCC4CL0ACXX_L2_TRDPOPuljTALRAAPEI-212_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="08931fb29de1cbd7c56a2578003eb1ea"/>
+    <FILE filename="UPSC-0105/OP5_FCC4CL0ACXX_L2_TRDPOPuljTALRAAPEI-212_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="b84acb0f17f3698e21d7d09bb5846f80"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+ <RUN alias="UPSC-0105-R0008" center_name="UPSC" run_center="BGI-Shenzhen" run_date="2014-11-25T00:00:00">
+  <EXPERIMENT_REF refname="UPSC-0105-E0006"/>
+  <DATA_BLOCK>
+   <FILES>
+    <FILE filename="UPSC-0105/FCC4AHUACXX-TRDPOPwhfTATRABPEI-221_L1_1.fq.gz" filetype="fastq" checksum_method="MD5" checksum="177606930fa49f37da94954cd429b6a2"/>
+    <FILE filename="UPSC-0105/FCC4AHUACXX-TRDPOPwhfTATRABPEI-221_L1_2.fq.gz" filetype="fastq" checksum_method="MD5" checksum="afc652d9183f7b6b73a52095e106a682"/>
+   </FILES>
+  </DATA_BLOCK>
+ </RUN>
+</RUN_SET>

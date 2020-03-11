@@ -1,0 +1,1 @@
+curl -uWebin-763:AdDfb2VJ -F "SUBMISSION=@UPSC-0107-embargo-update.Submission.xml" https://www.ebi.ac.uk/ena/submit/drop-box/submit/

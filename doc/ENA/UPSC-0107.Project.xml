@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJECT_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<PROJECT center_name="UPSC" alias="UPSC-0107">
+<TITLE>Transcriptome analysis of vascular cambium from easy-to-root and difficult-to-root genotype of populus</TITLE>
+<DESCRIPTION>Populus has considerable commercial and ecological importance and is accepted as a model system for biological studies of trees, and vegetative propagation of Populus plants chiefly depends on the formation of adventitious roots in stem cuttings. Adventitious roots (AR) are formed in stems, leaves and non-pericycle tissue in older roots, differing from primary roots, of embryonic origin. Developing adventitious root primordia (ARP) emerge from reprogrammed cells. Hence, the cellular origin of AR is uncertain and different tissues, often associated with the vasculature or cambial layers, which are proposed to generate AR founder cells. To better understand potential mechanisms involved in adventitious root formation in Populus, we performed a comparative transcriptome analysis at two time point (0 hour and 24 hours after cutting) between OP42 (P. maximowiczii  x P. trichocarpa) (easy-to-root) and hybrid aspen (P.tremula x P. tremuloides) clone T89 (difficult-to-root) from micro dissected cambium tissue using the Illumina sequencing method. Our data will be a valuable resource for genomic research about adventitious root formation in Populus cuttings, which can be used to improve rooting of difficult-to-root varieties.</DESCRIPTION>
+<UMBRELLA_PROJECT/>
+<RELATED_PROJECTS>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB21549"/>
+</RELATED_PROJECT>
+<RELATED_PROJECT>
+<CHILD_PROJECT accession="PRJEB21557"/>
+</RELATED_PROJECT>
+</RELATED_PROJECTS>
+</PROJECT>
+</PROJECT_SET>
